@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Bares Serena
 
-You can use the [editor on GitHub](https://github.com/AslayRey/aslayrey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sono Bares Serena, studentessa dell'Università degli Studi di Udine (polo scientifico) del corso di Tecnologie Web e Multimediali.
+Ho conseguito il diploma di Informatica e Telecomunicazioni all'ITTS Vito Volterra di San Donà di Piave con una valutazione di 79/100.
+Già dalle scuole superiori ero appassionata di Frontend, scoprendo poi una forte passione per lo UX e lo UI. Dal terzo anno universitario, ho iniziato ad interessarmi anche alle reti di calcolatori e al loro funzionamento.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Esperienze lavorative
 
 ```markdown
-Syntax highlighted code block
+17-09-2018 / 12-10-2018 Frontend Academy
+_Marghera_
+Frontend Accademy tenuta dai dipendenti dell'azienda, che hanno svolto varie lezioni e test di conoscenze finali sui seguenti argomenti:
+- Javascript
+- Node.js
+- HTML5
+- CSS / SCSS
+- Foundation
+- Git
+- GitHub
+- UX
+- UIkit
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+22-06-2015 / 17-07-2015 Tirocinio presso Calicantus Srl
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+_Quarto D'Altino_
+- Lievi modifiche ai siti web sviluppati dall'azienda
+- Uso Photoshop per miglioramento delle immagini dei prodotti venduti
+- Affiancamento ai colleghi più esperti per visionare, capire il funzionamento e l'utilizzo di PHP nei siti web
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AslayRey/aslayrey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contatti
+baresserena@gmail.com - 3397696621
